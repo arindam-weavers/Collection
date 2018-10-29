@@ -1,0 +1,126 @@
+/*
+
+
+
+Theme Name: Apple Fitness Theme
+
+
+
+Author: Grant Wilkinson Team
+
+
+
+Theme URI: http://www.Grant Wilkinson.com/
+
+
+
+Tags: Apple Fitness, Grant Wilkinson
+
+
+
+Version: :Latest Version
+
+
+
+*/
+
+
+
+#ResidentialSection, .hiddenBx, #disappearBx_1 , #disappearBx_2 , #disappearBx_3, #LogoBrndSlr .owl-nav, #LogoBrndSlr .owl-dots { display:none; }
+
+
+
+#back-to-top { position: fixed; bottom: 40px; right: 40px; z-index: 9999; text-align: center; background: #e4313a; cursor: pointer; border: 0; border-radius: 2px; text-decoration: none; transition: opacity 0.2s ease-out; opacity: 0; box-shadow: 0px 0px 5px #fff}
+
+
+
+#back-to-top:hover {background: #e4313a; }
+
+
+
+#back-to-top.show { opacity: 1; }
+
+
+
+.owl-carousel .owl-item img { display:inline !important; }
+
+.banner_box .image_itembox.no_hover:hover .inner_imgbox:before {
+
+	display:none;
+
+}
+
+#LogoBrndSlrRdntl .owl-nav, #LogoBrndSlrRdntl .owl-dots { display:none !important; }
+
+
+
+.topheader_section h6 { min-height: 19px; }
+
+
+
+/*.topheader_section a {
+
+    color: #fff;
+
+}*/
+
+a#OpnPop {
+
+    color: #e4313a;
+
+}
+
+a#OpnPop:hover { background:#646464; color:#fff;}
+
+
+
+/*a#support {
+
+    position: absolute;
+
+    right: -1%;
+
+    top: -6px;
+
+    font-size: 14px;
+
+    background: #fff;
+
+    padding: 8px 14px;
+
+    text-transform: uppercase;
+
+    font-weight: 600;
+
+    line-height: normal;
+	color:#e4313a;
+	font:normal 14px GothamMedium, sans-serif;
+
+}
+
+a#support:hover { background:#646464; color:#fff;}
+
+
+
+@media only screen and ( max-width:1280px ) {
+
+a#support {right: 33px;}
+
+
+
+
+
+}
+
+
+
+@media only screen and (max-width: 320px)
+
+a#support {
+
+    right: 44px;top: 31px;
+
+}*/
+
+
+

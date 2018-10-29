@@ -1,0 +1,337 @@
+.picture-item {
+    padding: 15px;
+}
+.portfol-masnry {  padding: 80px 0 0;}
+.tab_nav.live_feed_tab_nav { max-width: 1470px; margin: 0 auto; padding: 20px 15px 20px 15px;}
+.tab_nav.live_feed_tab_nav ul { padding: 0; list-style: none; text-align: center; border-bottom: 3px solid#000;}
+.tab_nav.live_feed_tab_nav ul li { width: 33%; display: inline-block;}
+.tab_nav.live_feed_tab_nav ul li a:after { content: "."; color: #f00;}
+.tab_nav.live_feed_tab_nav ul li a { display: inline-block; background: no-repeat; border: none; font-size: 35px; font-weight: 400; color: #000; position: relative; padding-bottom: 20px;}
+.tab_nav.live_feed_tab_nav ul li.ui-state-active a:before { content: ''; position: absolute; left: 0; right: 0; bottom: 0; margin: 0 auto; height: 20px; width: 3px; background: #000;}
+.socialmediavs_section { padding: 0 0 100px 0;}
+.vs_title_wrap { text-align: center; padding-top: 50%;}
+p.api-updt-warn { text-align: center; font-size: 20px; color: #000;font-weight: 600;}
+.vs_title_wrap h3.cmn_header:after { content: '';}
+.vs_title_wrap h3.cmn_header { color: #787878;}
+.servicepg-section .container-fluid { padding: 0;}
+body.postid-58 .white_section.team_section.industries_focus { padding: 120px 0 80px 0;}
+
+.filters-group { padding-bottom: 10px; border-bottom: 2px solid #000;}
+.btn-group.tab-btn-outr.filter-options { width: 100%;}
+.adtab-btn {  width: 33%;  display: inline-block;  background: no-repeat; border: none; font-size: 35px; font-weight: 400; color: #000; position: relative; padding-bottom: 20px;}
+.adtab-btn:after { content: "."; color: #f00;}
+button#srch-ads { position: relative;}
+.adtab-btn:focus {  outline: none;}
+div#srch-box { margin: 0 auto; text-align: right; padding: 15px;}
+div#srch-box input#filters-search-input {  height: 35px; font-size: 16px; max-width: 500px;  background: #000;  color: #fff;  border: 2px solid #fff; box-shadow: 0 0 15px #000;}
+.adtab-btn.active { font-weight: 600; position: relative;}
+.adtab-btn.active:before {  content: '';  position: absolute;  left: 0; right: 0; bottom: 0; margin: 0 auto; height: 20px;  width: 3px;  background: #000;}
+.top-ad-btn-tab {   border-bottom: 3px solid #000 !important;}
+.grfx-sec{background:url(../images/blue-bg.png); background-size: cover; background-position: center;}
+.grfx-content {  padding: 70% 0 5% 0;}
+.grfx-content h2 { color: #fff; font-size: 55px;}
+div#gallery-header-center-right {  padding: 30px 0 80px;}
+p.portfol-lnk { margin: 0; word-break: break-all;}
+.picture-item__details { padding: 5px;  }
+ul.brnd-prtfol-lst { list-style: none;  padding: 0; text-align: center;}
+ul.brnd-prtfol-lst li { display: inline-block; width: 19%;  margin-left: 6px; line-height: 1;  margin-bottom: 10px;}
+.brand-scndimg { display: none; position: absolute; top: 0; left: 0;}
+.brand-fstimg:hover > .brand-scndimg { display: block;}
+.brand-fstimg { position: relative;}
+li.ui-tabs-active.ui-state-active button {
+    font-weight: 600 !important;
+}
+.tab_nav.live_feed_tab_nav ul li button:after {
+    content: ".";
+    color: #f00;
+}
+.tab_nav.live_feed_tab_nav ul li.ui-state-active button:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 auto;
+    height: 20px;
+    width: 3px;
+    background: #000;
+}
+.tab_nav.live_feed_tab_nav ul li button {
+    display: inline-block;
+    background: no-repeat;
+    border: none;
+    font-size: 35px;
+    font-weight: 400;
+    color: #000;
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.picture-item__inner:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.ff-item .ff-item-bar {
+    margin: 0;
+    border-top: 1px solid rgba(229,226,220,0.4);
+    padding: 10px 7%;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 21px;
+    height: 44px;
+    text-align: left;
+    clear: both;
+    box-sizing: border-box;
+}
+.picture-item__inner:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.sm-loader,.sm-top-loader {
+    top: 20px;
+}
+.sm-loader,.sm-top-loader {
+    position: absolute !important;
+    left: 50%;
+    top: 50px;
+    margin: 0 0 0 -18px;
+    -webkit-transition: all 200ms ease-out 50ms;
+    -moz-transition: all 200ms ease-out 50ms;
+    -ms-transition: all 200ms ease-out 50ms;
+    transition: all 200ms ease-out 50ms;
+}
+.sm-square:nth-child(1) {
+    background-color: rgb(59, 61, 64);
+}
+.sm-square:nth-child(2) {
+    -webkit-animation-delay: 0.2s;
+    -moz-animation-delay: 0.2s;
+    animation-delay: 0.2s;
+}
+.sm-square:nth-child(3) {
+    -webkit-animation-delay: 0.4s;
+    -moz-animation-delay: 0.4s;
+    animation-delay: 0.4s;
+}
+.sm-square:nth-child(4) {
+    -webkit-animation-delay: 0.6s;
+    -moz-animation-delay: 0.6s;
+    animation-delay: 0.6s;
+}
+.sm-square:nth-child(5) {
+    -webkit-animation-delay: 0.8s;
+    -moz-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+}
+.sm-square:nth-child(6) {
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+    animation-delay: 1s;
+}
+.sm-square:nth-child(9) {
+    -webkit-animation-delay: 1.6s;
+    -moz-animation-delay: 1.6s;
+    animation-delay: 1.6s;
+}
+.sm-square:nth-child(8) {
+    -webkit-animation-delay: 1.4s;
+    -moz-animation-delay: 1.4s;
+    animation-delay: 1.4s;
+}
+.sm-square:nth-child(7) {
+    -webkit-animation-delay: 1.2s;
+    -moz-animation-delay: 1.2s;
+    animation-delay: 1.2s;
+}
+.sm-clear:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.sm-clear {
+    clear: both;
+}
+.sm-last {
+    margin-right: 0;
+}
+.sm-square:nth-child(3) {
+    -webkit-animation-delay: 0.4s;
+    -moz-animation-delay: 0.4s;
+    animation-delay: 0.4s;
+}
+.sm-square {
+    background: rgb(255, 255, 255);
+    width: 10px;
+    height: 10px;
+    float: left;
+    top: 10px;
+    margin-right: 4px;
+    margin-top: 4px;
+    position: relative;
+    opacity: 1;
+    -webkit-animation: enter 4s infinite;
+    animation: enter 4s infinite;
+    -webkit-backface-visibility: hidden;
+}
+#load-more-feed:hover {
+    background-color: rgb(205, 205, 205);
+}
+#load-more-feed{
+	background-color: rgb(59, 61, 64);
+	width: auto !important;
+    padding: 0px 30px;
+    display: inline-block;
+    margin: 20px 12px 0;
+    cursor: pointer;
+    /*background: #CDCDCD;*/
+    color: white;
+    font-size: 15px;
+    border-radius: 5px;
+    padding: 10px 40px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    box-sizing: border-box;
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+    position: relative;
+    text-align: center;
+    -ms-transition: all 100ms ease-out;
+    -moz-transition: all 100ms ease-out;
+    -webkit-transition: all 100ms ease-out;
+    transition: all 100ms ease-out;
+}
+.social-loadmore-wrapper {
+    text-align: center;
+    position: relative;
+    visibility: visible;
+    clear: both;
+}
+.ff-label-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 7% 0 0 7%;
+    z-index: 2;
+    line-height: 1.2em;
+}
+.ff-sc-label1 .ff-icon {
+    width: auto;
+    height: auto;
+    border: none;
+    font-family: inherit;
+}
+.ff-icon {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    font-family: 'ff-icons';
+    font-style: normal;
+    position: relative;
+    box-sizing: content-box;
+    border-style: solid;
+    border-width: 1px;
+    border-color: transparent;
+}
+.ff-sc-label1 .ff-icon-inner {
+    position: relative;
+    width: auto;
+    height: auto;
+    padding: 3px 5px;
+    border-radius: 3px;
+    font-size: 10px;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-family: inherit;
+}
+.ff-google .ff-icon-inner {
+    background-color: #dd4b39;
+}
+
+
+/* Style the tab */
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    display: none;
+   
+}
+
+@-webkit-keyframes pulse {
+  from,
+  40% {
+    background: #fdfdfd;
+  }
+
+  to {
+    background: #dadada;
+  }
+}
+@-webkit-keyframes show {
+  from, 40% {
+    opacity: 0;
+  }
+
+  41%, to {
+    opacity: 1;
+  }
+}
+@keyframes pulse {
+  from,
+  40% {
+    background: #fdfdfd;
+  }
+
+  to {
+    background: #dadada;
+  }
+}
+@keyframes show {
+  from, 40% {
+    opacity: 0;
+  }
+
+  41%, to {
+    opacity: 1;
+  }
+}

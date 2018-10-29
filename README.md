@@ -1,3 +1,3 @@
 # Grant
 
-Plugins: social-media, woocommerce_postback
+Plugins: social-media, woocommerce_postback,newapi
